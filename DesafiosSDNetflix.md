@@ -14,7 +14,6 @@ marcosf63@gmail.com
     * Certificação de dispositivos
     * SDK que faz o build para a plataforma específica
     * SDK utiliza dados da certificação de dispositivos
-    * Parte da SDK é também distribuída para os fabricantes
     * SDK não é open source
 
 ## Sistemas Abertos
@@ -28,6 +27,7 @@ marcosf63@gmail.com
 * Securitiy Monkey
 * Netflix Open Conect
 * Instâncias distribuídas em diferentes zonas do AWS
+* Repulsive Grizzly - Ataques de DDoS
 
 ## Escalabidade e Concorrêcia
 * Dezenas de milhares instâncias de VMs na AWS
